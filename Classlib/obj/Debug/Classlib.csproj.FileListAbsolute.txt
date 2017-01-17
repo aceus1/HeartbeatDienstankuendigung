@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2015\Projects\HeartbeatDienstankuendigung\Classlib\bin\Debug\Classlib.dll
+c:\users\daniel\documents\visual studio 2015\Projects\HeartbeatDienstankuendigung\Classlib\bin\Debug\Classlib.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\HeartbeatDienstankuendigung\Classlib\obj\Debug\Classlib.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\HeartbeatDienstankuendigung\Classlib\obj\Debug\Classlib.dll
+c:\users\daniel\documents\visual studio 2015\Projects\HeartbeatDienstankuendigung\Classlib\obj\Debug\Classlib.pdb

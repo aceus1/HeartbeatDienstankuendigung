@@ -1,0 +1,7 @@
+c:\users\daniel\documents\visual studio 2015\Projects\HeartbeatDienstankuendigung\App2\bin\Debug\App2.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\HeartbeatDienstankuendigung\App2\bin\Debug\App2.exe
+c:\users\daniel\documents\visual studio 2015\Projects\HeartbeatDienstankuendigung\App2\bin\Debug\App2.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\HeartbeatDienstankuendigung\App2\bin\Debug\Classlib.dll
+c:\users\daniel\documents\visual studio 2015\Projects\HeartbeatDienstankuendigung\App2\bin\Debug\Classlib.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\HeartbeatDienstankuendigung\App2\obj\Debug\App2.exe
+c:\users\daniel\documents\visual studio 2015\Projects\HeartbeatDienstankuendigung\App2\obj\Debug\App2.pdb
